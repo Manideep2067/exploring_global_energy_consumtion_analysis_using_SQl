@@ -1,0 +1,1 @@
+# exploring_global_energy_consumtion_analysis_using_SQl
